@@ -9,13 +9,13 @@
 
 - We can start our meeting as we have quorum now.
 
-# idiosyncrasy (idio-syn-crasy)
+# idiosyncrasy
 >  strange or unusual habit, way of behaving, or feature that someone or something has:
 
 - One of her many idiosyncrasies is always smelling a book before opening it
 - web is littered with examples of each browser's idiosyncrasies
 
-# contemplate/contemplating
+# contemplating
 
 > o look at on all sides or in all its aspects; To consider as a possibility.
 
