@@ -20,7 +20,7 @@
 
 # contemplating
 
-> o look at on all sides or in all its aspects; To consider as a possibility.
+> To look at on all sides or in all its aspects; To consider as a possibility.
 
 -   I'm contemplating leaving my job.
 
@@ -94,11 +94,13 @@
 > etacognition includes a critical awareness of one’s thinking and learning and oneself as a thinker and learner.
 > indfulness refers to a mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations
 
-# Contiguous vs continuous
+# Contiguous
 
 > Contiguous describes two or more things that share a border, two or more things that touch, that are physically next to each other.
 
--   the forty-eight states that make up the mainland of the United States are contiguous as they abut each other without any gaps. Alaska is not a contiguous state as the country of Canada separates it from the mainland of forty-eight states.
+- the forty-eight states that make up the mainland of the United States are contiguous as they abut each other without any gaps. Alaska is not a contiguous state as the country of Canada separates it from the mainland of forty-eight states.
+
+! Don't get confuse with continuous
 
 # indifferent
 
@@ -109,7 +111,7 @@
 
 # exemplify
 
-> o be a very good example of (something) : to show (something) very clearly
+> To be a very good example of (something) : to show (something) very clearly
 
 -   His works exemplify the taste of the period.
 -   The city's economic growth is exemplified by the many new buildings that are currently under construction.
@@ -187,9 +189,10 @@
 -   He likes to wear clothes that accentuate his muscular build.
 -   We felt that the article accentuated [=emphasized] the positive aspects of the program.
 
-# renaissance: The JavaScript renaissance is upon us.
+# renaissance
 
 > situation or period of time when there is a new interest in something that has not been popular in a long time; A period of new growth or activity
+- The JavaScript renaissance is upon us.
 
 # moratorium
 
@@ -200,8 +203,7 @@
 
 # perseverance
 
-> per - severance
-> ersistence in doing something despite difficulty or delay in achieving success.
+> persistence in doing something despite difficulty or delay in achieving success.
 
 -   his perseverance with the technique illustrates his single-mindedness"
 
@@ -213,7 +215,7 @@
 
 # Utopian
 
-> elating to or aiming for a perfect society in which everyone works well with each other and is happy:
+> Aiming for a perfect society in which everyone works well with each other and is happy:
 
 -   A utopian vision.
 
