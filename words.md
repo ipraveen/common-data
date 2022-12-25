@@ -231,3 +231,9 @@
 > loud noise made by people who are angry or annoyed; a lot of angry comments made in public about someone or something:
 
 -   There's a crowd of angry demonstrators making a real hullabaloo outside the Houses of Parliament.
+
+
+# perseverance
+> persistence in doing something despite difficulty or delay in achieving success.
+- His perseverance was rewarded: after many rejections, he finally found a job.
+- Perseverance is required to perfect just about any skill.
