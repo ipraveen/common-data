@@ -1,3 +1,24 @@
+# demographic
+> Relating to the structure of populations; Group of People from a certain age group. 
+
+- the demographic trend is towards an older population
+- India has a demographic advantage.
+
+# intrusive
+> annoying someone by interfering with their privacy : intruding where you are not wanted or welcome
+- A loud and intrusive person
+- She tried to be helpful without being intrusive.
+- It was a intrusive question.
+
+
+# solicit
+
+>  to ask for (something, such as money or help) from people, companies, etc.
+
+- The company is soliciting bids from various firms.
+- The organization is soliciting new memberships/subscriptions.
+- The newspaper's editors want to solicit opinions/comments from readers
+
 # obscure
 
 > not discovered or known about; uncertain; keep from being seen
