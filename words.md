@@ -1,14 +1,14 @@
 # demographic
 > Relating to the structure of populations; Group of People from a certain age group. 
 
-- the demographic trend is towards an older population
+- the demographic trend is toward an older population
 - India has a demographic advantage.
 
 # intrusive
 > annoying someone by interfering with their privacy : intruding where you are not wanted or welcome
 - A loud and intrusive person
 - She tried to be helpful without being intrusive.
-- It was a intrusive question.
+- It was an intrusive question.
 
 
 # solicit
@@ -30,14 +30,14 @@
 
 > he smallest number of people needed to be present at a meeting before it can officially begin and before official decisions can be taken.
 
--   We can start our meeting as we have quorum now.
+-   We can start our meeting as we have a quorum now.
 
 # idiosyncrasy
 
 > strange or unusual habit, way of behaving, or feature that someone or something has:
 
 -   One of her many idiosyncrasies is always smelling a book before opening it
--   web is littered with examples of each browser's idiosyncrasies
+- the web is littered with examples of each browser's idiosyncrasies
 
 # contemplating
 
@@ -51,20 +51,19 @@
 > being pleasant and at ease in talking to others
 
 -   A lively, affable young fellow
--   When I met modi, I found him very affable
+-   When I met Modi, I found him very affable
 
 # perquisite
-
 > a benefit which one enjoys or is entitled to on account of one's job or position.
 
--   he perquisites of this job include health insurance and a performance bonus.
+- The perquisites of this job include health insurance and a performance bonus.
 
 # notion
 
 > An idea or opinion
 
 -   He has some pretty strange notions.
--   Did you give any thought to the notion that you can win by loosing?
+-   Did you give any thought to the notion that you can win by losing?
 
 # metaphor
 
@@ -76,8 +75,8 @@
 
 > he ability to produce a desired or intended result.
 
--   The efficacy [=effectiveness] of this treatment has not yet been proved.
--   efficacy of Tharanos’s device not proven.
+-  The efficacy [=effectiveness] of this treatment has not yet been proved.
+-  efficacy of Tharanos’s device is not proven.
 
 # exuberance
 
@@ -121,7 +120,7 @@
 
 - the forty-eight states that make up the mainland of the United States are contiguous as they abut each other without any gaps. Alaska is not a contiguous state as the country of Canada separates it from the mainland of forty-eight states.
 
-! Don't get confuse with continuous
+! Don't get confused with continuous
 
 # indifferent
 
