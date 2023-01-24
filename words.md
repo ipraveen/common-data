@@ -1,3 +1,24 @@
+# carpe diem
+> used to urge someone to make the most of the present time and give little thought to the future.
+- The multimillionaire said that he owed his success in life to his belief in carpe diem.
+
+
+# deterrent
+> something that makes someone decide not to do something
+- We would like to go, but cost is a major deterrent
+- They hope that the new law will be a deterrent against false advertising.
+
+
+# Ingress
+>  A way to enter a place or the act of entering a place
+- Ingress to and egress from the freeway were made difficult by the construction.
+- We don't have any Ingress for flood water.
+
+# egress
+>  a way to get out of a place or the act of leaving a place : exit
+- The auditorium is designed to provide easy egress in an emergency.
+
+
 # demographic
 > Relating to the structure of populations; Group of People from a certain age group. 
 
