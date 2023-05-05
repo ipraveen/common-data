@@ -1,3 +1,24 @@
+# plunder
+> To steal things from (a place, such as a city or town) especially by force.
+- India was plundered by the Britishers.
+- The village was plundered by the invading army.
+
+# cynical
+> Believing that people are generally selfish and dishonest
+- Cynical people say there is no such thing as true love.
+- Many young people today are cynical about politics.
+- Some people regard the governor's visit to the hospital as a cynical attempt to win votes.
+- She's become more cynical in her old age.
+
+# retribution
+> punishment for doing something wrong
+- Many saw her death as divine retribution (= punishment by God) for her crimes.
+- People are seeking retribution for the latest terrorist outrage
+
+# pry
+> to try to find out about other people's private lives
+- I was curious, but I didn't want to pry.
+
 # carpe diem
 > used to urge someone to make the most of the present time and give little thought to the future.
 - The multimillionaire said that he owed his success in life to his belief in carpe diem.
@@ -5,7 +26,7 @@
 
 # deterrent
 > something that makes someone decide not to do something
-- We would like to go, but cost is a major deterrent
+- We would like to go, but the cost is a major deterrent
 - They hope that the new law will be a deterrent against false advertising.
 
 
@@ -218,10 +239,7 @@
 -   he promised to expedite economic reforms
 
 # lament
-
-> to express sorrow, regret, or unhappiness about something
-
--   As a fresh out-of-school developer, I didn’t under‐ stand her lament but having now lived through more front-end frameworks than I can count, I understand why she felt that way.
+As a fresh-out-of-school developer, I didn’t under‐ stand her lament but having now lived through more front-end frameworks than I can count, I understand why she felt that way.
 
 # accentuate
 
