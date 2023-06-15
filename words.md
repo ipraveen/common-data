@@ -1,3 +1,25 @@
+# commotion
+> a sudden, short period of noise, confusion, or excited movement
+- His arrival caused quite a commotion
+- There was a commotion outside the embassy.
+
+
+# statute
+> a law that has been formally approved and written down
+- These requirements are detailed in the U.S. federal statute known as HIPAA
+
+
+# engrossed
+> giving all your attention to something
+- She gets completely engrossed in her work.
+- They were engrossed in conversation.
+
+
+# alchemy
+> A seemingly magical process of transformation, creation, or combination
+- finding the person who's right for you requires a very subtle alchemy
+- The company hoped for some sort of economic alchemy that would improve business.
+
 # plunder
 > To steal things from (a place, such as a city or town) especially by force.
 - India was plundered by the Britishers.
