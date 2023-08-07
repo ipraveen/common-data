@@ -1,3 +1,13 @@
+# counterintuitive
+> Different from what you would expect : not agreeing with what seems right or natural
+- It's counterintuitive that sometimes you have to distract your audience with a joke to gain their attention.
+- It may sound counterintuitive, but you need failures for long-term success. 
+
+# eloquent
+> having or showing the ability to use language clearly and effectively; clearly showing feeling or meaning
+- An eloquent speech/speaker
+- His success serves as an eloquent reminder of the value of hard work.
+
 # commotion
 > a sudden, short period of noise, confusion, or excited movement
 - His arrival caused quite a commotion
