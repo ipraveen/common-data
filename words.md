@@ -1,3 +1,31 @@
+# ambiguous
+> open to more than one interpretation; not having one obvious meaning.
+- This agreement is very ambiguous and open to various interpretations
+
+# misogyny
+> the belief that men are much better than women; prejudice against women, typically exhibited by men
+- misogyny is deep routed in the high-power corridor of this country.
+
+
+# incidental
+> happening by chance, or in connection with something of greater importance
+- The points you make are true, but they're incidental to the main problem.
+- India's getting Railway is just incidental to British colonization.
+
+
+# anecdotes
+> A short and amusing or interesting story about a real incident or person.
+- he told anecdotes about his job
+
+# discreet
+> careful in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment or attract a lot of attention.
+- Can you be a bit more discreet with your speech?
+
+# proliferate
+> increase rapidly in number; multiply.
+- India's UPI users have proliferated in the last five years. 
+- Kafka Topics have tendency to proliferate.
+
 # counterintuitive
 > Different from what you would expect : not agreeing with what seems right or natural
 - It's counterintuitive that sometimes you have to distract your audience with a joke to gain their attention.
